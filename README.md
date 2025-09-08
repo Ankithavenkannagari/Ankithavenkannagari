@@ -40,7 +40,8 @@ Thanks for stopping by! Here's a little bit about me:
 ---
 
 ### 📈 GitHub Stats
-![Ankitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankithareddy&show_icons=true&theme=radical)  
+![Ankitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankithavenkannagari&show_icons=true&theme=radical)
+ 
 
 ---
 
