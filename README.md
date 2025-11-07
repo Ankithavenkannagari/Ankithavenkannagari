@@ -20,7 +20,6 @@ Thanks for stopping by! Here's a little bit about me:
 - Cloud-based ETL Automation  
 - Advanced Power BI & Dashboarding Techniques  
 - Big Data Analytics & Azure Synapse  
-- Data Warehousing in Snowflake  
 
 ---
 
