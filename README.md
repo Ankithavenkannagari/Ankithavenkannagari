@@ -12,7 +12,7 @@ Thanks for stopping by! Here's a little bit about me:
 ---
 
 ### 🛠️ Languages and Tools
-`SQL` `Python` `Power BI` `Tableau` `Excel` `DAX` `Power Query` `Azure` `AWS` `Git` `Linux` `MySQL` `Snowflake`  
+`SQL` `ADF` `Power BI` `Tableau` `Excel` `DAX` `Power Query` `Azure` `Fabric` `Git` `Linux` `MySQL` `Snowflake`  
 
 ---
 
@@ -32,9 +32,11 @@ Thanks for stopping by! Here's a little bit about me:
 ---
 
 ### 🏆 Certifications & Courses
-- Microsoft Certified: **Azure Fundamentals**  
+- Microsoft Certified: **Fabric Data Engineer Associate**
 - Microsoft Certified: **Data Analyst Associate**  
-- AWS Certified: **Cloud Practitioner**   
+- Microsoft Certified: **Azure Fundamentals**  
+
+   
 
 ---
 
