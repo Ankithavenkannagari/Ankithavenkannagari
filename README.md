@@ -3,8 +3,8 @@
 
 Thanks for stopping by! Here's a little bit about me:
 
-🌱 I’m currently learning **Advanced Data Analytics**, **Azure Data Services**, and **Cloud Automation**  
-💬 Ask me about **Power BI**, **SQL**, **Python**, **ETL Pipelines**, **Cloud Analytics**  
+🌱 I’m currently learning **Advanced Data Analytics**, **Azure Fabric**, and **AI Automation**  
+💬 Ask me about **Power BI**, **SQL**, **ETL Pipelines**, **Cloud Analytics**  
 👯 I’m looking to collaborate on **Data Analytics & BI Projects**  
 💻 All of my projects are available at [Portfolio](https://ankithavenkannagari.github.io/)  
 📫 Reach me at: **ankithareddy1331@gmail.com** | [LinkedIn](https://www.linkedin.com/in/reddy-ankitha/)  
@@ -19,7 +19,7 @@ Thanks for stopping by! Here's a little bit about me:
 ### 💻 Currently Learning
 - Cloud-based ETL Automation  
 - Advanced Power BI & Dashboarding Techniques  
-- Big Data Analytics & Azure Synapse  
+- AI Automation and Azure Fabric 
 
 ---
 
