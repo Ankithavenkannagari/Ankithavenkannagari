@@ -7,7 +7,7 @@ Thanks for stopping by! Here's a little bit about me:
 💬 Ask me about **Power BI**, **SQL**, **ETL Pipelines**, **Cloud Analytics**  
 👯 I’m looking to collaborate on **Data Analytics & BI Projects**  
 💻 All of my projects are available at [Portfolio](https://ankithavenkannagari.github.io/)  
-📫 Reach me at: **ankithareddy1331@gmail.com** | [LinkedIn](https://www.linkedin.com/in/reddy-ankitha/)  
+📫 Reach me at: **ankithareddy.venkannagari@gmail.com** | [LinkedIn](https://www.linkedin.com/in/venkannagari-ankitha/)  
 
 ---
 
