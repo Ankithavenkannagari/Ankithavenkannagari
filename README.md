@@ -54,5 +54,5 @@ Thanks for stopping by! Here's a little bit about me:
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/reddy-ankitha/)  
-[![Email](https://img.shields.io/badge/Email-Write%20Me-red?style=flat-square)](mailto:ankithareddy1331@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/venkannagari-ankitha/)  
+[![Email](https://img.shields.io/badge/Email-Write%20Me-red?style=flat-square)](mailto:ankithareddy.venkannagari@gmail.com)
