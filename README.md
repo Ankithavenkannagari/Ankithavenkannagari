@@ -4,7 +4,7 @@
 
 I partner with business and engineering teams to design the data models, pipelines, and reporting that leadership actually relies on — not just dashboards, but the architecture and governance behind them. My focus has expanded from analysis to **owning the full path from raw data to executive-ready insight**: data modeling, pipeline design (Azure Data Factory, Microsoft Fabric), and BI delivery (Power BI, Tableau) with row-level security and stakeholder-specific views built in from the start.
 
-**Currently:** [X years] in data analytics, now extending into analytics/data engineering — building lakehouse architecture and governed multi-agent AI systems for data analysis.
+**Currently:** 5+ in data analytics, now extending into analytics/data engineering — building lakehouse architecture and governed multi-agent AI systems for data analysis.
 
 ---
 
