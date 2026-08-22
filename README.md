@@ -62,7 +62,7 @@ I partner with business and engineering teams to design the data models, pipelin
 
 ### 🏆 Certifications
 
-- Microsoft Certified: **Fabric Data Engineer Associate**
+- Microsoft Certified: **Fabric Analytics Engineer Associate**
 - Microsoft Certified: **Power BI Data Analyst Associate**
 - Microsoft Certified: **Azure Fundamentals**
 - **AWS Cloud Practitioner** · **AWS Academy Cloud Security Foundations**
