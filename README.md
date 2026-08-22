@@ -52,7 +52,7 @@ I partner with business and engineering teams to design the data models, pipelin
 
 **[VeraScope](https://github.com/Ankithavenkannagari/VeraScope)** - A governed multi-agent AI analyst system: 8 specialized agents (EDA, data quality, forecasting, anomaly detection, guardrails, and more) orchestrated against Snowflake, with deterministic routing and built-in data quality gates before any insight reaches a stakeholder.
 
-**[HR Workforce Analytics & Attrition Dashboard](https://github.com/Ankithavenkannagari/HR_Analytics)** - 4-page Power BI report on an 8-fact-table star schema, surfacing that involuntary exits — not voluntary attrition - were the dominant retention risk, and that recruitment capacity (not attrition) was the larger workforce gap.
+**[HR Workforce Analytics & Attrition Dashboard](https://github.com/Ankithavenkannagari/HR_Analytics)** - 4-page Power BI report on an 8-fact-table star schema, surfacing that involuntary exits - not voluntary attrition - were the dominant retention risk, and that recruitment capacity (not attrition) was the larger workforce gap.
 
 **[Business Performance Overview](https://github.com/Ankithavenkannagari/Business_performance)** - Executive sales/marketing dashboard with row-level security by region, drill-through to order-level detail, and target/YoY tracking built into every KPI rather than raw totals alone.
 
