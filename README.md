@@ -1,6 +1,6 @@
 # 👋 Ankitha Venkannagari
 
-### Data Analyst & Analytics Engineer - Turning data into decisions leadership can act on
+### Business Intelligence Developer - Turning data into decisions leadership can act on
 
 I partner with business and engineering teams to design the data models, pipelines, and reporting that leadership actually relies on - not just dashboards, but the architecture and governance behind them. My focus has expanded from analysis to **owning the full path from raw data to executive-ready insight**: data modeling, pipeline design (Azure Data Factory, Microsoft Fabric), and BI delivery (Power BI, Tableau) with row-level security and stakeholder-specific views built in from the start.
 
